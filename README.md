@@ -128,7 +128,7 @@ Atualmente venho desenvolvendo projetos próprios utilizando Inteligência Artif
 />
 
   <img 
-    align="right" 
+    align="left" 
     height="200" 
     src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=thiagozlz&theme=tokyonight&layout=compact&langs_count=9" 
   />
