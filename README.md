@@ -2,7 +2,8 @@
 
 **`Desenvolvedora FullStack Python`**
 
-Desenvolvedor Full Stack com experiência em Python, desenvolvimento de APIs REST, integração de sistemas e construção de interfaces web. Familiaridade com bancos de dados SQL, versionamento com Git e práticas de desenvolvimento ágil.
+Desenvolvedor Full Stack com foco em Python, com experiência prática no desenvolvimento de projetos envolvendo APIs REST, integração de sistemas e interfaces web. Possuo familiaridade com bancos de dados SQL, versionamento com Git e práticas de desenvolvimento ágil.
+Atualmente venho desenvolvendo projetos próprios utilizando Inteligência Artificial, explorando automação e soluções baseadas em dados.
 
 ---
 
