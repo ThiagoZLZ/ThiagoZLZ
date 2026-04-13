@@ -121,14 +121,14 @@ Atualmente venho desenvolvendo projetos próprios utilizando Inteligência Artif
 
   <p>
   <img 
-    align="left" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=thiagozlz&show_icons=true&theme=tokyonight&locale=pt-br" 
-  />
+  align="left" 
+  height="200" 
+  style="padding-right: 10px;" 
+  src="https://github-readme-stats-sigma-five.vercel.app/api?username=thiagozlz&show_icons=true&theme=tokyonight&locale=pt-br&include_all_commits=true&count_private=true" 
+/>
 
   <img 
-    align="ritgh" 
+    align="right" 
     height="200" 
     src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=thiagozlz&theme=tokyonight&layout=compact&langs_count=9" 
   />
