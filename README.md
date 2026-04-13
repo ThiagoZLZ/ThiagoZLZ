@@ -135,7 +135,7 @@ Atualmente venho desenvolvendo projetos próprios utilizando Inteligência Artif
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagozlz&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagozlz&show_icons=true)
 
 </p>
 
