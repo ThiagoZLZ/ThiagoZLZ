@@ -86,7 +86,7 @@ Desenvolvedor Full Stack com experiência em Python, desenvolvimento de APIs RES
     title="PostgreSQL"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
 />
 <img 
     align="left" 
